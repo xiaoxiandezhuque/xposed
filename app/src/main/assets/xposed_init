@@ -1,2 +1,3 @@
 com.xh.xposed.hook.HookPackage
 com.xh.xposed.hook.HookRes
+com.xh.xposed.hook.HookWX
